@@ -1,0 +1,23 @@
+{
+  "name": "project_web3_pure_deploy",
+  "version": "1.0.0",
+  "description": "----------------------------------------------------------------------------------------------------\r 切记不要忽视版本号，特别是当ethers版本号=6的时候，语法都有差异！！！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.4.1",
+    "hardhat": "^2.22.9",
+    "web3": "^4.12.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "hardhat-gas-reporter": "^2.2.1"
+  }
+}
