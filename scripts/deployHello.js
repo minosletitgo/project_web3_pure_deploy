@@ -1,8 +1,9 @@
 const { ethers } = require("hardhat");
+const logger = require('../srcs/logger');
 
 async function main() {
   const [deployer] = await ethers.getSigners();
-  console.log("Deploying contracts with the account:", deployer.address);
+  logger.info("Deploying contracts with the account:", deployer.address);
 
   const Hello = await ethers.getContractFactory("Hello", {
     contractPath: "./contracts/Hello.sol",
@@ -17,15 +18,15 @@ async function main() {
   // 在VSCode控制台，对事件的监听，有时候可以看到，有时候不能看到  
   // 放弃监听，注销掉
   // let logListener = (str) => {
-  //   console.log(`hello event detected!`);
-  //   console.log(`str: ${str}`);
+  //   logger.info(`hello event detected!`);
+  //   logger.info(`str: ${str}`);
   // };
 
-  // console.log("Adding event listener...");
+  // logger.info("Adding event listener...");
   // //hello.on("DoLog", logListener);
-  // console.log("Event listener added.");
+  // logger.info("Event listener added.");
 
-  console.log("Begin...");
+  logger.info("Begin...");
 
   // 终于(2024.09.15 晚22:30)，我在Hardhat官方的issues中，找到了"在VSCode控制台，打印事件日志"的方式，不需要监听，直接打印
 
@@ -33,24 +34,24 @@ async function main() {
   const contractReceipt0 = await tx0.wait(); // 等待交易打包进区块
   //强制打印交易Json数据  
   for (const event of contractReceipt0.events) {
-    console.log(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
+    logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
   }
 
   const tx1 = await hello.print1(); // 实际发送交易
   const contractReceipt1 = await tx1.wait(); // 等待交易打包进区块
   //强制打印交易Json数据  
   for (const event of contractReceipt1.events) {
-    console.log(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
+    logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
   }
   
-  console.log("End...");
+  logger.info("End...");
 
-  console.log("Hello deployed to (address):", hello.address);
+  logger.info("Hello deployed to (address):", hello.address);
 
   // // 确保在所有操作完成后移除监听器
-  // console.log("Removing event listener...");
+  // logger.info("Removing event listener...");
   // hello.off("DoLog", logListener);
-  // console.log("Event listener removed.");
+  // logger.info("Event listener removed.");
 }
 
 main()

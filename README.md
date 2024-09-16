@@ -22,6 +22,8 @@ npm install --save-dev chai@4.3.6
 
 npm install --save-dev hardhat-gas-reporter@2.2.1
 
+npm install winston@3.14.2
+
 ----------------------------------------------------------------------------------------------------
 
 自行搭建hardhat.config.js 以及 .env配置文件

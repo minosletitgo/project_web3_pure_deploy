@@ -1,4 +1,5 @@
 const hre = require("hardhat");
+const logger = require('../srcs/logger');
 
 async function main() {
     // 获取合约工厂
@@ -13,7 +14,7 @@ async function main() {
     // 等待合约部署完成
     const helloEth = await helloEthDeployTx.deployed();
 
-    console.log("Contract deployed to:", helloEth.address);
+    logger.info("Contract deployed to:", helloEth.address);
 }
 
 // 处理错误
