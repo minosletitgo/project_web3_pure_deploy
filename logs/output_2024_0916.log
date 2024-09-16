@@ -224,3 +224,207 @@
   "event": "DoLog",
   "eventSignature": "DoLog(string)"
 }
+2024-09-16 16:05:54 [info]: Deploying contracts with the account:
+2024-09-16 16:05:54 [info]: Begin...Deploy1...
+2024-09-16 16:05:54 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 84,
+  "transactionHash": "0x0250541414c1001c3a551eef52b1e5f8a87b05457cdcd47b70c443939f9cdecd",
+  "address": "0xB6db334777D6b3683897491a31285f7e408ca851",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000fddea7e70fa93c65262a4d04196ae4c3df3f748300000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f315f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xf038cefb8e7d987df791520fd5bfb860ab5226f2ffcaef7b835adcd78c75de90",
+  "args": [
+    "deployHello1_Create",
+    "0xfDDea7e70fA93c65262a4d04196AE4c3DF3F7483"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:05:54 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 85,
+  "transactionHash": "0x4f167e86ee8af8577f9abf740e7a3c285e7be521a26b333b88bd59df46583ce5",
+  "address": "0xB6db334777D6b3683897491a31285f7e408ca851",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000fddea7e70fa93c65262a4d04196ae4c3df3f7483000000000000000000000000000000000000000000000000000000000000001363616c63756c61746548656c6c6f314164647200000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xaa5d207592e4911e1aac74664d1387db4aa5e6e9129076a9858ea4fd27210fbd",
+  "args": [
+    "calculateHello1Addr",
+    "0xfDDea7e70fA93c65262a4d04196AE4c3DF3F7483"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:05:54 [info]: deploy1 deployed to (address):
+2024-09-16 16:05:54 [info]: End...Deploy1...
+2024-09-16 16:05:54 [info]: ------------------------------------------
+2024-09-16 16:05:54 [info]: Begin...Deploy2...
+2024-09-16 16:05:54 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 87,
+  "transactionHash": "0xfcb5bae9c56985ca8544fcbe72b66445783dcae98fc70e4631b5c1e87b496dbb",
+  "address": "0x677d4dfb10E2Be7E28ac2EB4399DDA2D1779a97B",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000271c0bdcb1419ee973328f53b4ecb5a234de3c0600000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f325f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xa99c92436de68b4d1fb94527b90350d46d3a5eb9f533a6259a24c8621f8d0037",
+  "args": [
+    "deployHello2_Create",
+    "0x271C0bDCb1419eE973328f53B4Ecb5A234De3c06"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:48 [info]: Deploying contracts with the account:
+2024-09-16 16:06:48 [info]: Begin...Deploy1...
+2024-09-16 16:06:48 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 89,
+  "transactionHash": "0xd535a3935d3852d1933ba08d8780d3dac1343b2c4e60199571663b4e776fdd6d",
+  "address": "0x0D572e75f1773E2e67A462ec41EA15622A82b4f3",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000b62aab3be7f5e44f093d9c66842fb47c5616870f00000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f315f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xdd1b6f5e3fcc7ecc8f0dc8e160f17f21e176e066a9ae2bb958db79108a4e40d4",
+  "args": [
+    "deployHello1_Create",
+    "0xB62aaB3bE7f5e44f093D9C66842Fb47C5616870f"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:48 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 90,
+  "transactionHash": "0x1eb549e69bd1a9f362e763d9ff0e63c3ebb8d4a2fd2fc34a405f55c787b2b3e5",
+  "address": "0x0D572e75f1773E2e67A462ec41EA15622A82b4f3",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000b62aab3be7f5e44f093d9c66842fb47c5616870f000000000000000000000000000000000000000000000000000000000000001363616c63756c61746548656c6c6f314164647200000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xbc5715d1d7917fa1cd027e1cb3d4bb2514cd1f5755899de88bf5ea434efcbdcc",
+  "args": [
+    "calculateHello1Addr",
+    "0xB62aaB3bE7f5e44f093D9C66842Fb47C5616870f"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:48 [info]: deploy1 deployed to (address):
+2024-09-16 16:06:48 [info]: End...Deploy1...
+2024-09-16 16:06:48 [info]: ------------------------------------------
+2024-09-16 16:06:48 [info]: Begin...Deploy2...
+2024-09-16 16:06:48 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 92,
+  "transactionHash": "0x23c2d78690667577ce8c97e69b124cdfe6412c936af976d3645e76bab5817ed4",
+  "address": "0xA617619944d73787EE10fdf0ec92A5E55Cf72829",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000000004000000000000000000000000049e92a3f38e2803d0ba9a47353370f006302694e00000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f325f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x68f09d053588eb6591b7f5bee9dd40e6d21f0c0d493b74424c85dc7a80d7b3bc",
+  "args": [
+    "deployHello2_Create",
+    "0x49e92a3f38E2803d0bA9A47353370f006302694e"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:53 [info]: Deploying contracts with the account:
+2024-09-16 16:06:53 [info]: Begin...Deploy1...
+2024-09-16 16:06:53 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 94,
+  "transactionHash": "0x7cd946e788bc7e57ce49c3f576c965aa2f01d7685df6a83c47e8c3996b8a78f5",
+  "address": "0x73ed89e09E249917F61E6A88A285D97fA45865eA",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000d6ed0b66dcd366ae4bc36238046083aefdde097c00000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f315f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xfd8f9a4a6cc9ce430547d02e933471bf1145784b447912a30b37ca418283923b",
+  "args": [
+    "deployHello1_Create",
+    "0xD6Ed0b66DCd366aE4BC36238046083AEFDDe097c"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:54 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 95,
+  "transactionHash": "0xd0a8094d55c9559c179154e06684359fc0a05105fa80e9172d0c10ff9fe661a1",
+  "address": "0x73ed89e09E249917F61E6A88A285D97fA45865eA",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000d6ed0b66dcd366ae4bc36238046083aefdde097c000000000000000000000000000000000000000000000000000000000000001363616c63756c61746548656c6c6f314164647200000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x9703a5ed9419a6372c877db67ca6120064e83b5ef713f67b51f160ebe396c703",
+  "args": [
+    "calculateHello1Addr",
+    "0xD6Ed0b66DCd366aE4BC36238046083AEFDDe097c"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:06:54 [info]: deploy1 deployed to (address):
+2024-09-16 16:06:54 [info]: End...Deploy1...
+2024-09-16 16:06:54 [info]: ------------------------------------------
+2024-09-16 16:06:54 [info]: Begin...Deploy2...
+2024-09-16 16:07:14 [info]: Deploying contracts with the account:
+2024-09-16 16:07:14 [info]: Begin...Deploy1...
+2024-09-16 16:07:15 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 99,
+  "transactionHash": "0x09bfcea5688fa5cb0e741bf506148150fddccfc028514a9760ea2a9ad331a291",
+  "address": "0x2C02c594FB2868bEb750d358FC809A803d9B6908",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000fbc2a3037fbcbdc2026d70f9d55d736dcbcb8b9d00000000000000000000000000000000000000000000000000000000000000136465706c6f7948656c6c6f315f43726561746500000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xfb7cd1e35418354f71bd38bd7003f5477f58bd2efcfc4857e1e60b3b53cd54dd",
+  "args": [
+    "deployHello1_Create",
+    "0xFBc2A3037Fbcbdc2026d70f9d55D736dcBcb8b9D"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:07:15 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 100,
+  "transactionHash": "0xbf7a0012e2a6f7370683f8b15980fbe22ba060d93f2e5084680719c8fd82c83a",
+  "address": "0x2C02c594FB2868bEb750d358FC809A803d9B6908",
+  "topics": [
+    "0x4da8c8e82a6cdcd021dddec73a637b429d2b0a9b303638f1258ff8a35c3e5d86"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000040000000000000000000000000fbc2a3037fbcbdc2026d70f9d55d736dcbcb8b9d000000000000000000000000000000000000000000000000000000000000001363616c63756c61746548656c6c6f314164647200000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x48f6e53e6ac76358f1ba9ad474c7334dc1c0d0f7ce01351bc01465a4778eba27",
+  "args": [
+    "calculateHello1Addr",
+    "0xFBc2A3037Fbcbdc2026d70f9d55D736dcBcb8b9D"
+  ],
+  "event": "ContractDeployed",
+  "eventSignature": "ContractDeployed(string,address)"
+}
+2024-09-16 16:07:15 [info]: deploy1 deployed to (address):
+2024-09-16 16:07:15 [info]: End...Deploy1...
+2024-09-16 16:07:15 [info]: ------------------------------------------
+2024-09-16 16:07:15 [info]: Begin...Deploy2...
