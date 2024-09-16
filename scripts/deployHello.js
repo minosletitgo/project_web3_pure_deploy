@@ -2,6 +2,15 @@ const { ethers } = require("hardhat");
 const logger = require('../srcs/logger');
 
 async function main() {
+
+  logger.error("hello");
+  logger.warn("hello");
+  logger.info("hello");
+  logger.http("hello");
+  logger.verbose("hello");
+  logger.debug("hello");
+  logger.silly("hello");
+
   const [deployer] = await ethers.getSigners();
   logger.info("Deploying contracts with the account:", deployer.address);
 

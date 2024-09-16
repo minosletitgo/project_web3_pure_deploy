@@ -142,3 +142,85 @@
   "event": "DoLog",
   "eventSignature": "DoLog(string)"
 }
+2024-09-16 12:15:57 [error]: hello
+2024-09-16 12:15:57 [warn]: hello
+2024-09-16 12:15:57 [info]: hello
+2024-09-16 12:15:58 [info]: Deploying contracts with the account:
+2024-09-16 12:15:58 [info]: Begin...
+2024-09-16 12:15:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 78,
+  "transactionHash": "0x2823fe4cd7f370e898650bab60ba267501faee2a795ba6d6f8b0b167eb683412",
+  "address": "0x465BB09a9E793704bbB7a9102984C0B75f732497",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x5630e973db071233b4deb6f79ce6aa80aae3f084a034a28beeeadd169b5106f9",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-09-16 12:15:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 79,
+  "transactionHash": "0x2d27d69c535dff45f6d80ca170c48b577c48501cd4feebf6108e0e0ae9e8cc80",
+  "address": "0x465BB09a9E793704bbB7a9102984C0B75f732497",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c000000000000",
+  "logIndex": 0,
+  "blockHash": "0xbe145c535752e14336bf63e328d0459edcd7a332b9b241a30664233b92c5354c",
+  "args": [
+    "print1() = 你好，世界"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-09-16 12:16:27 [error]: hello
+2024-09-16 12:16:27 [warn]: hello
+2024-09-16 12:16:27 [info]: hello
+2024-09-16 12:16:27 [http]: hello
+2024-09-16 12:16:27 [verbose]: hello
+2024-09-16 12:16:27 [debug]: hello
+2024-09-16 12:16:27 [silly]: hello
+2024-09-16 12:16:27 [info]: Deploying contracts with the account:
+2024-09-16 12:16:27 [info]: Begin...
+2024-09-16 12:16:27 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 81,
+  "transactionHash": "0x1b777a402d2c8b4e5ca759e822a57bb6a8145b1d7b5cd3e9e5483e08f6621846",
+  "address": "0xbE994EfE896a529B3BBEaFB1a4A6d7e075A142E4",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x497e6dfe7a476c7df741176e634af205c22ab6693596fae2e8b6318aa4a27a46",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-09-16 12:16:27 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 82,
+  "transactionHash": "0x3efa11d713fbd9112eb1fe9db1d39370e743ff53b86b0e1d5907e26d71c6b64b",
+  "address": "0xbE994EfE896a529B3BBEaFB1a4A6d7e075A142E4",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c000000000000",
+  "logIndex": 0,
+  "blockHash": "0x5cef0f4d416349ecf6bffe9809515f196aaea5646732b5b0f3b7a6c322092781",
+  "args": [
+    "print1() = 你好，世界"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}

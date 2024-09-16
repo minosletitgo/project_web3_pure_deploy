@@ -30,6 +30,19 @@ const formatDate = () => {
 };
 
 // 创建日志记录器
+/**
+    日志分级
+const levels = {
+  error: 0,
+  warn: 1,
+  info: 2,
+  http: 3,
+  verbose: 4,
+  debug: 5,
+  silly: 6
+};
+*/
+
 const logger = winston.createLogger({
   level: 'info',
   format: winston.format.combine(
@@ -43,5 +56,6 @@ const logger = winston.createLogger({
     new winston.transports.Console() // 可选：将日志输出到控制台
   ]
 });
+
 
 module.exports = logger;
