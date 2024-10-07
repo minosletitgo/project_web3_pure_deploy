@@ -14,14 +14,14 @@ contract Hello {
     }
 
     function print1() public returns (string memory) {
-        string memory str = unicode"print1() = 你好，世界";
+        string memory str = unicode"print1() = 你好，世界!";
         emit DoLog(str);
         emit DoLog2(str, 9527, address(this));
         return str;
     }
 
     function print2() public returns (string memory) {
-        string memory str = unicode"print2() = nihao，shijie";
+        string memory str = unicode"print2() = nihao，shijie!";
         emit DoLog(str);
         return str;
     }

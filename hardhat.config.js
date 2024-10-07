@@ -1,6 +1,7 @@
 require("@nomiclabs/hardhat-ethers");
 require("@nomiclabs/hardhat-etherscan");
 require("hardhat-gas-reporter")
+require('hardhat-abi-exporter');
 require("dotenv").config();
 
 module.exports = {
@@ -48,4 +49,10 @@ module.exports = {
     showMethodSig: true, // 显示方法签名
     excludeContracts: ['Migrations'], // 排除不需要报告的合约
   },
+  abiExporter: {
+    path: './abi', // ABI 文件的输出目录
+    clear: true,    // 每次生成时清空输出目录
+    flat: true,     // 是否将所有 ABI 写入一个文件
+    // 其他配置选项...
+  },  
 };
