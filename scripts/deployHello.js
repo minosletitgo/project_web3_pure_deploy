@@ -12,7 +12,7 @@ async function main() {
   logger.silly("hello");
 
   const [deployer] = await ethers.getSigners();
-  logger.info("Deploying contracts with the account:", deployer.address);
+  logger.info(`Deploying contracts with the account: ${deployer.address}`);
 
   const Hello = await ethers.getContractFactory("Hello", {
     contractPath: "./contracts/Hello.sol",
@@ -55,7 +55,7 @@ async function main() {
   
   logger.info("End...");
 
-  logger.info("Hello deployed to (address):", hello.address);
+  logger.info(`Hello deployed to (address): ${hello.address}`);
 
   // // 确保在所有操作完成后移除监听器
   // logger.info("Removing event listener...");

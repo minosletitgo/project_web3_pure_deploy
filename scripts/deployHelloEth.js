@@ -14,7 +14,7 @@ async function main() {
     // 等待合约部署完成
     const helloEth = await helloEthDeployTx.deployed();
 
-    logger.info("Contract deployed to:", helloEth.address);
+    logger.info(`Contract deployed to: ${helloEth.address}`);
 }
 
 // 处理错误

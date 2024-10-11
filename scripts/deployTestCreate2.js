@@ -3,7 +3,7 @@ const logger = require('../srcs/logger');
 
 async function main() {
     const [deployer] = await hre.ethers.getSigners();
-    logger.info("Deploying contracts with the account:", deployer.address);
+    logger.info(`Deploying contracts with the account: ${deployer.address}`);
 
     logger.info("Begin...Deploy1...");
 
@@ -24,7 +24,7 @@ async function main() {
       logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
     }
 
-    logger.info("deploy1 deployed to (address):", deploy1.address);
+    logger.info("deploy1 deployed to (address): ${deploy1.address}");
 
     logger.info("End...Deploy1...");
 
@@ -49,7 +49,7 @@ async function main() {
       logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
     }
 
-    logger.info("deploy2 deployed to (address):", deploy2.address);
+    logger.info(`deploy2 deployed to (address): ${deploy2.address}`);
     
     logger.info("End...Deploy2...");
 }

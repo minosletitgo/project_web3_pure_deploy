@@ -86,7 +86,7 @@ npx hardhat node
 
 * 部署：使用第三方软件Ganache搭建开发节点(需要提前搭建好)
 ```
-npx hardhat run .\scripts\deploy_XXX.js --network localHardhat
+npx hardhat run .\scripts\deploy_XXX.js --network localGanache
 ```
 
 * 部署：使用测试链
