@@ -50,6 +50,7 @@ module.exports = {
     excludeContracts: ['Migrations'], // 排除不需要报告的合约
   },
   abiExporter: {
+    runOnCompile: true, // 这行很重要，确保每次编译都会导出 ABI
     path: './abi', // ABI 文件的输出目录
     clear: true,    // 每次生成时清空输出目录
     flat: true,     // 是否将所有 ABI 写入一个文件
