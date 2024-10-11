@@ -1,3 +1,1341 @@
 2024-10-11 15:27:31 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
 2024-10-11 15:27:31 [info]: Begin...TestVoting...
 2024-10-11 15:27:31 [info]: Contract deployed to: 0x97253a80B041D2b1EE55a861C36289d463e0FCB2
+2024-10-11 16:05:14 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:05:14 [error]: 签名失败：", TypeError: Cannot read properties of undefined (reading 'map')
+2024-10-11 16:09:34 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:09:34 [info]: 准备 sendToContract...
+2024-10-11 16:09:34 [error]: 签名失败：", TypeError: Cannot read properties of undefined (reading 'map')
+2024-10-11 16:10:46 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:10:46 [info]: 准备 sendToContract...
+2024-10-11 16:10:46 [error]: 签名失败：", TypeError: Cannot read properties of undefined (reading 'map')
+2024-10-11 16:11:17 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:11:17 [info]: 准备 sendToContract...
+2024-10-11 16:11:17 [info]: 尝试拿到合约的实例
+2024-10-11 16:19:24 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:19:24 [info]: 准备 sendToContract...
+2024-10-11 16:19:25 [info]: 尝试拿到合约的实例
+2024-10-11 16:20:41 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:20:41 [info]: 准备 sendToContract...
+2024-10-11 16:20:41 [info]: 尝试拿到合约的实例
+2024-10-11 16:23:18 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:23:18 [info]: 准备 sendToContract...
+2024-10-11 16:23:19 [info]: 尝试拿到合约的实例
+2024-10-11 16:23:55 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:23:55 [info]: 准备 sendToContract...
+2024-10-11 16:23:55 [info]: 尝试拿到合约的实例
+2024-10-11 16:25:23 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:25:23 [info]: 准备 sendToContract...
+2024-10-11 16:25:23 [info]: 尝试拿到合约的实例
+2024-10-11 16:26:18 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:26:18 [info]: 准备 sendToContract...
+2024-10-11 16:26:18 [info]: 尝试拿到合约的实例
+2024-10-11 16:27:09 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:27:09 [info]: 准备 sendToContract...
+2024-10-11 16:27:09 [info]: 尝试拿到合约的实例
+2024-10-11 16:40:12 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:40:12 [info]: 准备 sendToContract...
+2024-10-11 16:40:12 [info]: 尝试拿到合约的实例
+2024-10-11 16:40:30 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:40:30 [info]: 准备 sendToContract...
+2024-10-11 16:40:31 [info]: 尝试拿到合约的实例
+2024-10-11 16:42:28 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:42:28 [info]: 准备 sendToContract...
+2024-10-11 16:42:28 [info]: 尝试拿到合约的实例
+2024-10-11 16:42:43 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:42:43 [info]: 准备 sendToContract...
+2024-10-11 16:42:43 [info]: 尝试拿到合约的实例
+2024-10-11 16:42:43 [info]: 拿到合约的实例
+2024-10-11 16:42:43 [info]: 交易发送成功：", false
+2024-10-11 16:43:23 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:43:23 [info]: 准备 sendToContract...
+2024-10-11 16:43:23 [info]: 合约的实例，成功拿到！
+2024-10-11 16:43:23 [info]: 交易发送成功：", false
+2024-10-11 16:47:08 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 16:47:08 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:47:08 [info]: 准备 sendToContract...
+2024-10-11 16:47:08 [info]: 合约的实例，成功拿到！
+2024-10-11 16:47:08 [info]: 交易发送成功：", false
+2024-10-11 16:51:25 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 16:51:25 [info]: Begin...TestVoting...
+2024-10-11 16:51:25 [info]: Contract deployed to: 0x345B094f9f620Ba3fa3D7885e7C44684F145ad02
+2024-10-11 16:53:48 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 16:53:48 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:53:48 [info]: 准备 sendToContract...
+2024-10-11 16:53:48 [info]: 合约的实例，成功拿到！
+2024-10-11 16:53:48 [error]: 交易发送失败：", TypeError: tx.wait is not a function
+2024-10-11 16:55:55 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 16:55:55 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 16:55:55 [info]: 准备 sendToContract...
+2024-10-11 16:55:56 [info]: 合约的实例，成功拿到！
+2024-10-11 16:55:56 [error]: 交易发送失败：", TypeError: tx.wait is not a function
+2024-10-11 17:00:32 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:00:32 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:00:32 [info]: 准备 sendToContract...
+2024-10-11 17:00:32 [info]: 合约的实例，成功拿到！
+2024-10-11 17:02:50 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:02:50 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:02:50 [info]: 准备 sendToContract...
+2024-10-11 17:02:50 [info]: 合约的实例，成功拿到！
+2024-10-11 17:02:51 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:04:43 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:04:43 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:04:43 [info]: 准备 sendToContract...
+2024-10-11 17:04:44 [info]: 合约的实例，成功拿到！
+2024-10-11 17:04:44 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:04:55 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:04:55 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:04:55 [info]: 准备 sendToContract...
+2024-10-11 17:04:55 [info]: 合约的实例，成功拿到！
+2024-10-11 17:04:55 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:05:51 [error]: hello
+2024-10-11 17:05:51 [warn]: hello
+2024-10-11 17:05:51 [info]: hello
+2024-10-11 17:05:51 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:05:52 [info]: Begin...
+2024-10-11 17:05:52 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 42,
+  "transactionHash": "0x1c8d940120cd303b7c033c5ec976e303d9c8b2f8ec5f010a76a1c713af96baa0",
+  "address": "0xC2643a20a5Cc3763c2CC96e4F0af55b04f43F59c",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x1a99e9deb84f46c6829f69d229c9b61fdeae99a97c4a2711cb4d7a3b0c33e9bc",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:05:52 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 43,
+  "transactionHash": "0x62b751d400ff9f2dacf3a24bd86eabd6c753d7488b9ceb3f12d869297c6acdf3",
+  "address": "0xC2643a20a5Cc3763c2CC96e4F0af55b04f43F59c",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 0,
+  "blockHash": "0xbef6329bcbf8ef96a17e875189c2d9fb8622950a3aa8fd3ce8d5c9a853b406f7",
+  "args": [
+    "print1() = 你好，世界!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:14:51 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:14:51 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:14:51 [info]: 准备 sendToContract...
+2024-10-11 17:14:51 [info]: 合约的实例，成功拿到！
+2024-10-11 17:14:51 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:15:37 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:15:37 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:15:37 [info]: 准备 sendToContract...
+2024-10-11 17:15:37 [info]: 合约的实例，成功拿到！
+2024-10-11 17:15:37 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:16:52 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:16:52 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:16:52 [info]: 准备 sendToContract...
+2024-10-11 17:16:53 [info]: 合约的实例，成功拿到！
+2024-10-11 17:16:53 [info]: 交易发送成功：", [object Object]
+2024-10-11 17:19:23 [error]: hello
+2024-10-11 17:19:23 [warn]: hello
+2024-10-11 17:19:23 [info]: hello
+2024-10-11 17:19:23 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:19:23 [info]: Begin...
+2024-10-11 17:19:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 48,
+  "transactionHash": "0x1e103b17ccc425f2da446c01950a8126bbc235ac7e3c6659ac0c71875d2c2b79",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0xdc10283054d30514c335dab18024c5e1d0bf0d46029b93d9b9a248688deb3f3b",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:19:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 49,
+  "transactionHash": "0x5d69b82afaccbc2bc49a71cc0c1c9af7d8abbdddcbc145f4d26b1f85ab4c65f1",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 0,
+  "blockHash": "0xd6b099683b0d21c0323cd2554e8acaaaff1508c6b634cbae81cdc50b5f890989",
+  "args": [
+    "print1() = 你好，世界!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:19:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 49,
+  "transactionHash": "0x5d69b82afaccbc2bc49a71cc0c1c9af7d8abbdddcbc145f4d26b1f85ab4c65f1",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0xe9c2b866134e5c447bff1eef94a74c7d5417de37f002fb2317b178861a49472f"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000025370000000000000000000000006eff9d0faaf477fba6a6cec19b921ca2ec90ca00000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 1,
+  "blockHash": "0xd6b099683b0d21c0323cd2554e8acaaaff1508c6b634cbae81cdc50b5f890989",
+  "args": [
+    "print1() = 你好，世界!",
+    {
+      "type": "BigNumber",
+      "hex": "0x2537"
+    },
+    "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00"
+  ],
+  "event": "DoLog2",
+  "eventSignature": "DoLog2(string,uint256,address)"
+}
+2024-10-11 17:19:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 50,
+  "transactionHash": "0x143ae0a03c3602fd2e5f087f238c39f9066a1f14e40a853e76e279686cca90fb",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74322829203d206e6968616fefbc8c7368696a696521000000000000",
+  "logIndex": 0,
+  "blockHash": "0xea473f4a884a89834ae251976a651fbb27d661cc4cd6be6fd4b666a774fd207f",
+  "args": [
+    "print2() = nihao，shijie!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:19:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 51,
+  "transactionHash": "0xd618cd78a1819df4a96ac17171acb611a2c4255ba9a9f9218ae33a09ae667e0e",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x8f9de2700982a8ba019fe7f43d22a21adf74f502630a8ba788052ac780813d0b",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 17:24:58 [info]: 合约的实例，成功拿到！
+2024-10-11 17:24:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 52,
+  "transactionHash": "0x27591941a2b96aae323a7be26ced2d1e3faa427f8ee3dffd2fb156d123ea0eb4",
+  "address": "0x6EFF9d0faAf477FbA6a6cEC19B921Ca2Ec90CA00",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x3592b8d69bfc952b45a5b74f41323f59d96a621771fc6e6ea095b69f1bf80ac8",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 17:28:11 [error]: hello
+2024-10-11 17:28:11 [warn]: hello
+2024-10-11 17:28:11 [info]: hello
+2024-10-11 17:28:12 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:28:12 [info]: Begin...
+2024-10-11 17:28:12 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 54,
+  "transactionHash": "0xf660afcce4cd71630dfdaaeea2546e3033f98482da51606d006b6d8e9ca22384",
+  "address": "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x5183ac1693a911b58820449727dc273baf46a0e942fa4b5e93cda727271fb668",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:28:12 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 55,
+  "transactionHash": "0x3ac2a962a2cb2e6b3fb81f80d98841d118797c8946c6cf9f07ca51b3646591ed",
+  "address": "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 0,
+  "blockHash": "0x7e101369e4bba778f5ede9e8f42fba0bfb9efb40e01f9f8f792cf34c989393a1",
+  "args": [
+    "print1() = 你好，世界!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:28:12 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 55,
+  "transactionHash": "0x3ac2a962a2cb2e6b3fb81f80d98841d118797c8946c6cf9f07ca51b3646591ed",
+  "address": "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452",
+  "topics": [
+    "0xe9c2b866134e5c447bff1eef94a74c7d5417de37f002fb2317b178861a49472f"
+  ],
+  "data": "0x000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000025370000000000000000000000008fac780a5f8b02a75a164bebc1addbb65bc64452000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 1,
+  "blockHash": "0x7e101369e4bba778f5ede9e8f42fba0bfb9efb40e01f9f8f792cf34c989393a1",
+  "args": [
+    "print1() = 你好，世界!",
+    {
+      "type": "BigNumber",
+      "hex": "0x2537"
+    },
+    "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452"
+  ],
+  "event": "DoLog2",
+  "eventSignature": "DoLog2(string,uint256,address)"
+}
+2024-10-11 17:28:12 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 56,
+  "transactionHash": "0x9c22ea7537415c5db94436aaa0e6efbc339e8154c0296332ab99369218983daa",
+  "address": "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74322829203d206e6968616fefbc8c7368696a696521000000000000",
+  "logIndex": 0,
+  "blockHash": "0xab42c3ce2885770e1276b0ff71ec7c534781afd130fd56ee41faeae70b4d58f6",
+  "args": [
+    "print2() = nihao，shijie!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 17:28:12 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 57,
+  "transactionHash": "0xee609867f043afc6706ae478eca52b69b677fa3a457b4139e73ffc01af5a14a6",
+  "address": "0x8fAC780a5F8b02A75A164BebC1AdDbb65BC64452",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x5ebee6cc87115f960bb30d90381bf305a334e94569cb15e0efdd4d7b2c47d15b",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 17:28:22 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:28:22 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:28:22 [info]: 准备 sendToContract...
+2024-10-11 17:28:22 [info]: 合约的实例，成功拿到！
+2024-10-11 17:28:22 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:30:21 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:30:21 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:30:21 [info]: 准备 sendToContract...
+2024-10-11 17:30:21 [info]: 合约的实例，成功拿到！
+2024-10-11 17:30:21 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:31:34 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:31:34 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:31:34 [info]: 准备 sendToContract...
+2024-10-11 17:31:34 [info]: 合约的实例，成功拿到！
+2024-10-11 17:31:34 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:32:21 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:32:21 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:32:21 [info]: 准备 sendToContract...
+2024-10-11 17:32:22 [info]: 合约的实例，成功拿到！
+2024-10-11 17:32:22 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:33:19 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:33:19 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:33:19 [info]: 准备 sendToContract...
+2024-10-11 17:33:19 [info]: 合约的实例，成功拿到！
+2024-10-11 17:33:19 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:34:29 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:34:29 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:34:29 [info]: 准备 sendToContract...
+2024-10-11 17:34:29 [info]: 合约的实例，成功拿到！
+2024-10-11 17:34:29 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:39:31 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:39:31 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:39:31 [info]: 准备 sendToContract...
+2024-10-11 17:39:31 [info]: 合约的实例，成功拿到！
+2024-10-11 17:39:31 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 17:44:54 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 17:44:54 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 17:44:54 [info]: 准备 sendToContract...
+2024-10-11 17:44:54 [info]: 合约的实例，成功拿到！
+2024-10-11 17:44:54 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 18:50:57 [error]: hello
+2024-10-11 18:50:57 [warn]: hello
+2024-10-11 18:50:57 [info]: hello
+2024-10-11 18:50:58 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:50:58 [info]: Begin...
+2024-10-11 18:50:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 59,
+  "transactionHash": "0x56bd6921921d7e0902abc60069335b33c6434c5e4e128f8be844ae7efd33ab3e",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x965bb9462e69ecb7c16e6b02d2fbcab05d751644452ea702e00cae0a1f4a5f5b",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 18:50:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 60,
+  "transactionHash": "0xea0a4e26f681ebf2f61457aa4941f8fab97bbab08f9f25b163d892342c64c267",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 0,
+  "blockHash": "0x7d0f1895e9ec35ffbe3943c1ac7d6d2281f2b5324057ae0f98ec1861ea4f95e2",
+  "args": [
+    "print1() = 你好，世界!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 18:50:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 60,
+  "transactionHash": "0xea0a4e26f681ebf2f61457aa4941f8fab97bbab08f9f25b163d892342c64c267",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0xe9c2b866134e5c447bff1eef94a74c7d5417de37f002fb2317b178861a49472f"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000002537000000000000000000000000b31d8579adab5110cb95c6ec488b5403f3ef58fd000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 1,
+  "blockHash": "0x7d0f1895e9ec35ffbe3943c1ac7d6d2281f2b5324057ae0f98ec1861ea4f95e2",
+  "args": [
+    "print1() = 你好，世界!",
+    {
+      "type": "BigNumber",
+      "hex": "0x2537"
+    },
+    "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD"
+  ],
+  "event": "DoLog2",
+  "eventSignature": "DoLog2(string,uint256,address)"
+}
+2024-10-11 18:50:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 61,
+  "transactionHash": "0x0b98302229ddd9579fbc9133296430a28a16891c2fa9032b5a8e4c6d68b1eba3",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74322829203d206e6968616fefbc8c7368696a696521000000000000",
+  "logIndex": 0,
+  "blockHash": "0x235155e9fa64d26e443c1f79699f4110f49f96b52cd41824ca52debe587b14cc",
+  "args": [
+    "print2() = nihao，shijie!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 18:50:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 62,
+  "transactionHash": "0xeb639217f591ae60fb227a431ec08399bce8315ad49b38aa27a4a46b8361a4b2",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0xca3eb9f13f4c7ecdf6d89d44b12fb6e19b86e6b269d300fbf55cdbd58acde98c",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 18:52:06 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:52:06 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:52:06 [info]: 准备 sendToContract...
+2024-10-11 18:52:06 [info]: 合约的实例，成功拿到！
+2024-10-11 18:52:06 [info]: 调用函数 testPrint
+2024-10-11 18:52:07 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 63,
+  "transactionHash": "0x44227320bed8a08bb4f9a820ddb3f6501bb7dd867aec74a5723db60162251fdb",
+  "address": "0xb31d8579ADAb5110CB95C6Ec488b5403f3eF58fD",
+  "topics": [
+    "0xde5a603c839630453fa70681b9cd3cf7b34f6d52283adb12b4dcc1f43db6c15b"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0xc9eb5bf4eee0dd6b69dd3c00eb6dc861000248d2c2827d16334678f977ecf806",
+  "args": [
+    true
+  ],
+  "event": "TestPrintLog",
+  "eventSignature": "TestPrintLog(bool)"
+}
+2024-10-11 18:55:41 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:55:41 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:55:41 [info]: 准备 sendToContract...
+2024-10-11 18:55:41 [info]: 合约的实例，成功拿到！
+2024-10-11 18:55:41 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 18:56:59 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:56:59 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:56:59 [info]: 准备 sendToContract...
+2024-10-11 18:56:59 [info]: 合约的实例，成功拿到！
+2024-10-11 18:56:59 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 18:57:05 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:57:05 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:57:05 [info]: 准备 sendToContract...
+2024-10-11 18:57:06 [info]: 合约的实例，成功拿到！
+2024-10-11 18:57:06 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 18:57:41 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:57:41 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:57:41 [info]: 准备 sendToContract...
+2024-10-11 18:57:41 [info]: 合约的实例，成功拿到！
+2024-10-11 18:57:41 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 18:59:12 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 18:59:12 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 18:59:12 [info]: 准备 sendToContract...
+2024-10-11 18:59:13 [info]: 合约的实例，成功拿到！
+2024-10-11 18:59:13 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 19:00:59 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:00:59 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:00:59 [info]: 准备 sendToContract...
+2024-10-11 19:00:59 [info]: 合约的实例，成功拿到！
+2024-10-11 19:00:59 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 19:02:35 [error]: hello
+2024-10-11 19:02:35 [warn]: hello
+2024-10-11 19:02:35 [info]: hello
+2024-10-11 19:02:35 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:02:36 [info]: Begin...
+2024-10-11 19:02:36 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 65,
+  "transactionHash": "0xe6c6108bd190b312a38215e803ff7c859d337145e07436344521bfbfdca6865d",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000d48656c6c6f2c20576f726c642100000000000000000000000000000000000000",
+  "logIndex": 0,
+  "blockHash": "0x6a3bc64d46963aa2869c9aa8f06bde3339b87139b416cdb3ff10cb3681b51a09",
+  "args": [
+    "Hello, World!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 19:02:36 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 66,
+  "transactionHash": "0xd530ea6991b04dffe2e5864ce3ee3324c3331951999747e7575a0181d301434c",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 0,
+  "blockHash": "0x41111bba5ce9f53d874be0734c2588c42ba557fb9e446968afc94ae3e877932b",
+  "args": [
+    "print1() = 你好，世界!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 19:02:36 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 66,
+  "transactionHash": "0xd530ea6991b04dffe2e5864ce3ee3324c3331951999747e7575a0181d301434c",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0xe9c2b866134e5c447bff1eef94a74c7d5417de37f002fb2317b178861a49472f"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000002537000000000000000000000000e4ca9a8f04ca23731b7863742f24032f561682f1000000000000000000000000000000000000000000000000000000000000001b7072696e74312829203d20e4bda0e5a5bdefbc8ce4b896e7958c210000000000",
+  "logIndex": 1,
+  "blockHash": "0x41111bba5ce9f53d874be0734c2588c42ba557fb9e446968afc94ae3e877932b",
+  "args": [
+    "print1() = 你好，世界!",
+    {
+      "type": "BigNumber",
+      "hex": "0x2537"
+    },
+    "0xE4cA9a8f04ca23731B7863742F24032f561682F1"
+  ],
+  "event": "DoLog2",
+  "eventSignature": "DoLog2(string,uint256,address)"
+}
+2024-10-11 19:02:36 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 67,
+  "transactionHash": "0x60891e3499785f9f07512bcbaaeceb6d828eb5c61c4593e6f68da4c769257b21",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0x54288386b3d7dc83e39107a63fcfe9b6509fcab45186e55a108fafec01f6b386"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001a7072696e74322829203d206e6968616fefbc8c7368696a696521000000000000",
+  "logIndex": 0,
+  "blockHash": "0x829c6d561bb48e7b2fbda7fe193a8c01528df8354becb13a0ae99ce77c91e338",
+  "args": [
+    "print2() = nihao，shijie!"
+  ],
+  "event": "DoLog",
+  "eventSignature": "DoLog(string)"
+}
+2024-10-11 19:02:36 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 68,
+  "transactionHash": "0x6c66f23c92eaefbc507c0cb7a96d652803cfa50803fa0ab8f5bec4c1039438b4",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x3aa2bae0df7aed32e4da6dcb4128e5c7f02fe47da41d751d11e7fc15bdd44a05",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 19:03:14 [info]: 合约的实例，成功拿到！
+2024-10-11 19:03:14 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 69,
+  "transactionHash": "0x50fc0ec1720bf7e3cffb74a750a0978ccf64a8f8074c3c4f646a649eceb2aa42",
+  "address": "0xE4cA9a8f04ca23731B7863742F24032f561682F1",
+  "topics": [
+    "0x317ba7a85994a032260935696ee363fc0e61b8e4d805c4b759ae524b9d1effa5"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x3331a679d4e6ffadda522947e68df38d6de92481e30c888b1574970ce2261af1",
+  "args": [
+    true
+  ],
+  "event": "DoLog3",
+  "eventSignature": "DoLog3(bool)"
+}
+2024-10-11 19:06:04 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:06:04 [info]: Begin...TestVoting...
+2024-10-11 19:06:04 [info]: Contract deployed to: 0x954E16Df53e1B962127Dae2f2974DD5EF4A86288
+2024-10-11 19:06:33 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:06:33 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:06:33 [info]: 准备 sendToContract...
+2024-10-11 19:06:33 [info]: 合约的实例，成功拿到！
+2024-10-11 19:06:33 [info]: 调用函数 testPrint
+2024-10-11 19:06:33 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 71,
+  "transactionHash": "0xbbb25384d531ca13c11a36333a11c4e88b9acb7a7ca17f2318bd73f583678c87",
+  "address": "0x954E16Df53e1B962127Dae2f2974DD5EF4A86288",
+  "topics": [
+    "0xde5a603c839630453fa70681b9cd3cf7b34f6d52283adb12b4dcc1f43db6c15b"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x367bd3c5cb9fe1a111bc8f7befe4de772f8458f56dd48daaf8c61f883e173496",
+  "args": [
+    true
+  ],
+  "event": "TestPrintLog",
+  "eventSignature": "TestPrintLog(bool)"
+}
+2024-10-11 19:07:07 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:07:07 [info]: Begin...TestVoting...
+2024-10-11 19:07:07 [info]: Contract deployed to: 0x149dF8568Ab5f48Df90Da1fBEEfBF515a582b5d9
+2024-10-11 19:11:50 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:11:50 [info]: Begin...TestVoting...
+2024-10-11 19:11:50 [info]: Contract deployed to: 0x411f796423e06086387C0D17850541C11bC43C77
+2024-10-11 19:12:14 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:12:14 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:12:14 [info]: 准备 sendToContract...
+2024-10-11 19:12:14 [info]: 合约的实例，成功拿到！
+2024-10-11 19:12:14 [info]: 调用函数 testPrint
+2024-10-11 19:12:14 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 74,
+  "transactionHash": "0x429d664a26437e289aafdea929ca11bdf972a95e3c680eb2b7d69d6dfd0f9a36",
+  "address": "0x954E16Df53e1B962127Dae2f2974DD5EF4A86288",
+  "topics": [
+    "0xde5a603c839630453fa70681b9cd3cf7b34f6d52283adb12b4dcc1f43db6c15b"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0xc544952bd9c7db19d6de70e4768dbd34fb7fd8663305692a556fad56dc9751ea",
+  "args": [
+    true
+  ],
+  "event": "TestPrintLog",
+  "eventSignature": "TestPrintLog(bool)"
+}
+2024-10-11 19:14:07 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:14:07 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:14:07 [info]: 准备 sendToContract...
+2024-10-11 19:14:07 [info]: 合约的实例，成功拿到！
+2024-10-11 19:14:07 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 19:14:59 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:14:59 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:14:59 [info]: 准备 sendToContract...
+2024-10-11 19:14:59 [info]: 合约的实例，成功拿到: 0x954E16Df53e1B962127Dae2f2974DD5EF4A86288
+2024-10-11 19:14:59 [error]: 交易发送失败：", ProviderError: VM Exception while processing transaction: revert
+2024-10-11 19:15:51 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:15:51 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:15:51 [info]: 准备 sendToContract...
+2024-10-11 19:15:51 [info]: 合约的实例，成功拿到: 0x954E16Df53e1B962127Dae2f2974DD5EF4A86288
+2024-10-11 19:15:51 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 75,
+  "transactionHash": "0x80c59b9c4d8e3f039ed843afc1fd59ffa9521938996c20ed981c413ef4973afa",
+  "address": "0x954E16Df53e1B962127Dae2f2974DD5EF4A86288",
+  "topics": [
+    "0xde5a603c839630453fa70681b9cd3cf7b34f6d52283adb12b4dcc1f43db6c15b"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "logIndex": 0,
+  "blockHash": "0x340d75b8951607428b6ce6ef136ef7a47c2f070c43dcaaa23cde8f81b9fb442d",
+  "args": [
+    true
+  ],
+  "event": "TestPrintLog",
+  "eventSignature": "TestPrintLog(bool)"
+}
+2024-10-11 19:19:11 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:19:11 [info]: Begin...TestVoting...
+2024-10-11 19:19:11 [info]: Contract deployed to: 0x6Bc3249D80aad90575dD62003171ef5A2F9fA2CC
+2024-10-11 19:19:42 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:19:42 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:19:42 [info]: 准备 sendToContract...
+2024-10-11 19:19:42 [info]: 合约的实例，成功拿到: 0x6Bc3249D80aad90575dD62003171ef5A2F9fA2CC
+2024-10-11 19:19:42 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 77,
+  "transactionHash": "0x8655ef0a2ec3ee8d494a1ab79bf24d2f3ecd58fa84ced6e6c857427fac3f15ea",
+  "address": "0x6Bc3249D80aad90575dD62003171ef5A2F9fA2CC",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000006bc3249d80aad90575dd62003171ef5a2f9fa2cc0000000000000000000000006bc3249d80aad90575dd62003171ef5a2f9fa2cc",
+  "logIndex": 0,
+  "blockHash": "0xa948583a53e1e9e5d74bb3512a56d9e2282762e99e71c579b31f5f79761f7948",
+  "args": [
+    true,
+    "0x6Bc3249D80aad90575dD62003171ef5A2F9fA2CC",
+    "0x6Bc3249D80aad90575dD62003171ef5A2F9fA2CC"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:21:02 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:21:02 [info]: Begin...TestVoting...
+2024-10-11 19:21:03 [info]: Contract deployed to: 0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C
+2024-10-11 19:21:33 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:21:33 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:21:33 [info]: 准备 sendToContract...
+2024-10-11 19:21:33 [info]: 合约的实例，成功拿到: 0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C
+2024-10-11 19:21:33 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 79,
+  "transactionHash": "0x9b4ea54f7732dc61ba69cdb61b1def7273aa192a15a4aabbe8e04afe5feb38e4",
+  "address": "0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000000000010000000000000000000000007c0f74700ebbfaf8ff28b073241e2c8e5502931c0000000000000000000000007c0f74700ebbfaf8ff28b073241e2c8e5502931c",
+  "logIndex": 0,
+  "blockHash": "0x69af8a60b23cea9319eead967aa1f0e0f76a3688e3ac77bb8bd7ae22441f6a03",
+  "args": [
+    true,
+    "0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C",
+    "0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:21:48 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:21:48 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:21:48 [info]: 准备 sendToContract...
+2024-10-11 19:21:48 [info]: 合约的实例，成功拿到: 0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C
+2024-10-11 19:21:48 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 80,
+  "transactionHash": "0x79a640e6c5b648f1cfc621e749472301bfa5256dc21b26a42404f43f7a025b8c",
+  "address": "0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000007c0f74700ebbfaf8ff28b073241e2c8e5502931c",
+  "logIndex": 0,
+  "blockHash": "0x7096a3a62889e42135c2a385897e807bba8535266ab52128aa029fb97c3d24ff",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x7c0F74700eBbFaF8ff28b073241E2c8e5502931C"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:22:32 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:22:32 [info]: Begin...TestVoting...
+2024-10-11 19:22:32 [info]: Contract deployed to: 0xa57641b3691350b534c844e04C82Dc91bA392B0B
+2024-10-11 19:22:50 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:22:50 [info]: Begin...TestVoting...
+2024-10-11 19:22:50 [info]: Contract deployed to: 0x492e33a12F1eCe8bCB9665Fa5A26f53217670bC3
+2024-10-11 19:22:58 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:22:58 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:22:58 [info]: 准备 sendToContract...
+2024-10-11 19:22:58 [info]: 合约的实例，成功拿到: 0xa57641b3691350b534c844e04C82Dc91bA392B0B
+2024-10-11 19:22:58 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 83,
+  "transactionHash": "0x7c5bcfe4a26d6bfe508d966e6161b6041332f11b88b8aff32e47977c0c4175a1",
+  "address": "0xa57641b3691350b534c844e04C82Dc91bA392B0B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000a57641b3691350b534c844e04c82dc91ba392b0b",
+  "logIndex": 0,
+  "blockHash": "0x7ee60c879ce29147676853ec8d9bacc16dcd0b836d9fea8450e4e896ff951d82",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0xa57641b3691350b534c844e04C82Dc91bA392B0B"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:23:27 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:23:27 [info]: Begin...TestVoting...
+2024-10-11 19:23:27 [info]: Contract deployed to: 0xA064bB7C05aDad1FBA5F79fAdaf3F8c7042FC7E2
+2024-10-11 19:23:46 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:23:46 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:23:46 [info]: 准备 sendToContract...
+2024-10-11 19:23:46 [info]: 合约的实例，成功拿到: 0xA064bB7C05aDad1FBA5F79fAdaf3F8c7042FC7E2
+2024-10-11 19:23:46 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 85,
+  "transactionHash": "0x3c758cdcb29ffdfa6f21909d2e2cd9fbe772f9db1cb6920332e62e19087fd734",
+  "address": "0xA064bB7C05aDad1FBA5F79fAdaf3F8c7042FC7E2",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0xe7fbe77953a50c0bcc410a76871413aa3510655331441a0ecd39dffbc693c380",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:25:39 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:25:39 [info]: Begin...TestVoting...
+2024-10-11 19:25:39 [info]: Contract deployed to: 0x9c3B90330E386e9EA5Fbb2dC7d5Da9472Cb788d7
+2024-10-11 19:25:59 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:25:59 [info]: Begin...TestVoting...
+2024-10-11 19:25:59 [info]: Contract deployed to: 0x4555Dbbb101d063D797A45d7b3019f5E64d346f6
+2024-10-11 19:26:21 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:26:21 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:26:21 [info]: 准备 sendToContract...
+2024-10-11 19:26:21 [info]: 合约的实例，成功拿到: 0x4555Dbbb101d063D797A45d7b3019f5E64d346f6
+2024-10-11 19:26:21 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 88,
+  "transactionHash": "0x0159a78a8a55f18c4d653460ca68efad8bb27705e0e9f709c99cf36f63a35109",
+  "address": "0x4555Dbbb101d063D797A45d7b3019f5E64d346f6",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0x3d4e790a57653e40e02f2f3f13a98a81d21b46f71bf69d4b1d2f99ca0da80edc",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:29:09 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:29:09 [info]: Begin...TestVoting...
+2024-10-11 19:29:09 [info]: Contract deployed to: 0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a
+2024-10-11 19:29:28 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:29:28 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:29:28 [info]: 准备 sendToContract...
+2024-10-11 19:29:29 [info]: 合约的实例，成功拿到: 0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a
+2024-10-11 19:29:29 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 90,
+  "transactionHash": "0x8d69993ecf5b75629c1c44c39af22eb48e6f80567b75936152a9e9163cbbbb25",
+  "address": "0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0x40b9e150e552a61491f23ba053c705438dad9d8adbd8187d1f198b9f4b7f766a",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:37:09 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:37:09 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:37:09 [info]: 准备 sendToContract...
+2024-10-11 19:37:09 [info]: signerAddress = 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:37:09 [info]: 合约的实例，成功拿到: 0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a
+2024-10-11 19:37:09 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 91,
+  "transactionHash": "0x4ff52fb5ead5940528d3227df79db2b63285eaa6adc93be278377825cfaf4265",
+  "address": "0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0x8df0dd26d754adfb3c24db03c32537f1cabe50e49da88565ef713ca12eb62e27",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:41:01 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:41:01 [info]: wallet.publicKey", 0x04175085ae8c0cd27500a48b81c9199d570cd59245bb3bee87cc334ecc551d6b4e63ad5c8ffa258c09a623110050374d0e03041c79a1faf7a5f26fe95ab83ccf2c
+2024-10-11 19:41:01 [info]: account.address", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:41:01 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:41:01 [info]: 准备 sendToContract...
+2024-10-11 19:41:01 [info]: signerAddress = 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:41:01 [info]: 合约的实例，成功拿到: 0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a
+2024-10-11 19:41:01 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 92,
+  "transactionHash": "0x3766ac556882f60cb9bfca31448a99557881e6faca863a198de2467916ce9f5f",
+  "address": "0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0xc3e709405fe325a253c4ba208ae88e23691be9c0a70b27a84a90873608118a0a",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 19:47:10 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:47:10 [info]: wallet.publicKey", 0x04175085ae8c0cd27500a48b81c9199d570cd59245bb3bee87cc334ecc551d6b4e63ad5c8ffa258c09a623110050374d0e03041c79a1faf7a5f26fe95ab83ccf2c
+2024-10-11 19:47:10 [info]: account.address", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:47:10 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 19:47:10 [info]: 准备 sendToContract...
+2024-10-11 19:47:10 [info]: signerAddress = 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:47:10 [info]: userAddress = 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 19:47:10 [info]: 合约的实例，成功拿到: 0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a
+2024-10-11 19:47:10 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 93,
+  "transactionHash": "0xbec4493f0672f2924ea1af7761666d470b5ef545f554b7cd177870c5859ac601",
+  "address": "0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0xe9bd0e2fe5982075af8725838e36205bd22ddf4378c11f45506a50bb127acedf",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:00:53 [info]: wallet.address：", 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 20:00:53 [info]: wallet.publicKey", 0x04175085ae8c0cd27500a48b81c9199d570cd59245bb3bee87cc334ecc551d6b4e63ad5c8ffa258c09a623110050374d0e03041c79a1faf7a5f26fe95ab83ccf2c
+2024-10-11 20:00:53 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 20:00:53 [info]: 准备 sendToContract...
+2024-10-11 20:00:53 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 94,
+  "transactionHash": "0x9987b40c1eacdae7e55ff59efdd735435b5e9dcbe4cd62839094995df901b6e9",
+  "address": "0x9A6BD890d692F80BB49E5368d3e2B3972f6C425a",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000083638cd56da55ad8424939d5c84fc393d1e91dbe",
+  "logIndex": 0,
+  "blockHash": "0x25d1ef783cb1e14ab40c9e6099077117abb311e9df25e9478df482b0b162721b",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x83638Cd56dA55AD8424939D5C84FC393d1E91dbe"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:09:48 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 20:09:48 [info]: Begin...TestVoting...
+2024-10-11 20:09:48 [info]: Contract deployed to: 0x24320D020dC25241C3d1a38404bf4e4CbEDD9250
+2024-10-11 20:10:05 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 20:10:05 [info]: 准备 sendToContract...
+2024-10-11 20:10:05 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 96,
+  "transactionHash": "0x4adfd587b10aa6c8881932e230c0c2b94628b217bd63b674112080a39b1a7501",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0xb13572a9ea74f70c84432bf38a4ec9e2397dcf6ba0c52e00510325a8dde9bc80",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:10:20 [info]: 本地签名结果：", 0xa447d5c04363b863bfb417fed95f13c4350af45b6bca73fb7db73747853978ae497310796c9a20c3fa96250df7b6617d56ee2ab20dddc6c2d0cf6c936fa680dc1b
+2024-10-11 20:10:20 [info]: 准备 sendToContract...
+2024-10-11 20:10:20 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 97,
+  "transactionHash": "0x18b348103a0b28ec3517a31d17a212af9b26919c302b786795dbd8795d5ce5b0",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0x3432a1627b36491121a2f838adc666ced1decb721d1255a8e5666de604617935",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:44:06 [info]: 准备 sendToContract...
+2024-10-11 20:44:07 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 98,
+  "transactionHash": "0x07fedcfbba4a493898b90b0d810a8de2318feac27ea48a27f69d7df8806bbf4d",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0xd3de489992061152254b2b25403eda0d0f717a9c7450d203c09073ec00100853",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:45:00 [info]: 准备 sendToContract...
+2024-10-11 20:45:00 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 99,
+  "transactionHash": "0xcf91d06a65611fdc3b7d8a6b1fb87f7b70d2d420484cbadba59ba339286eba36",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0x91c25d5951aecb15fe90c70ba36208986f78d97d1e062712c11fe9e7f7b0a462",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 20:46:09 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 100,
+  "transactionHash": "0x2dc217ad4c486edec110a0402751fa4d5392beab14044813729ad57a2781a856",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0x536d7a7d4b23c252aa17c3976e64e700ce62cc803d7bb060e1d68b2340611377",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 21:51:32 [error]: 签名失败：", ReferenceError: message is not defined
+2024-10-11 21:52:06 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 101,
+  "transactionHash": "0x4a73d4ed3b85b898b3166e200cfb41bdfe6caccf963dec0f50dc8ee293f61974",
+  "address": "0x24320D020dC25241C3d1a38404bf4e4CbEDD9250",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000006ad60b19a7673732290d4ed84dd13294a254ba1c",
+  "logIndex": 0,
+  "blockHash": "0xa84ab659ef930c8aaf6d5340af7ac1bbdb0ff6723139cf738866a3ef2d7fb283",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x6aD60B19a7673732290D4ed84DD13294a254bA1c"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:06:55 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 22:06:55 [info]: Begin...TestVoting_Browser...
+2024-10-11 22:06:55 [info]: Contract deployed to: 0xAF2e47EC387e864d3f62ef5179cB0579fC65BF59
+2024-10-11 22:07:30 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 103,
+  "transactionHash": "0xa7bfe35182d0dd0d570df63f5d7837e2795d58732e74f8b2d5ff370fd6212ecc",
+  "address": "0xAF2e47EC387e864d3f62ef5179cB0579fC65BF59",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000001dcf31d812c9f1a7c06fd2c166e13c8644254bc1",
+  "logIndex": 0,
+  "blockHash": "0x698fb687d1158eb777b6bd772bbaf9702e67105362d10181f9df814cc83002ce",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x1DCF31D812c9F1A7c06fd2c166e13c8644254Bc1"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:08:27 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 104,
+  "transactionHash": "0x89774ddb02a86f1166ae8bb75be40728e0622d394e45b82044fbce30f3810011",
+  "address": "0xAF2e47EC387e864d3f62ef5179cB0579fC65BF59",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000001dcf31d812c9f1a7c06fd2c166e13c8644254bc1",
+  "logIndex": 0,
+  "blockHash": "0x38a8e46b88750f71c4425600da0cf7dbdea49ac14558539527837440b6a217a5",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x1DCF31D812c9F1A7c06fd2c166e13c8644254Bc1"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:15:30 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-11 22:15:30 [info]: Begin...TestVoting_Browser...
+2024-10-11 22:15:30 [info]: Contract deployed to: 0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B
+2024-10-11 22:18:10 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 106,
+  "transactionHash": "0xc1fe8cd2c22077949210d63268b5d40c4f9d4f891c12b1f07a7baf8c544014b5",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000001dcf31d812c9f1a7c06fd2c166e13c8644254bc1",
+  "logIndex": 0,
+  "blockHash": "0x7042c1ec4d92b3c83f899e5ac79217389c4e87b4782dec6719f2cabc7aef578a",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x1DCF31D812c9F1A7c06fd2c166e13c8644254Bc1"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:30:10 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 107,
+  "transactionHash": "0xf3d57a0e525c49a32ae887878fb9b6eab2fc38e75fa576420372ce32672540dd",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e700000000000000000000000066d6228fd315af5002009ae97b3c0b7d68228524",
+  "logIndex": 0,
+  "blockHash": "0xd6e4e0f2f7331429639b5922a685a7ec3963cd30eec9e35e419d170b54077a03",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x66D6228FD315Af5002009Ae97B3C0b7D68228524"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:33:13 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 108,
+  "transactionHash": "0x7d7e0f7343f60925de6c2d8d70cde79291236e5d4fd06607f6f8c563dfa5129c",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000ac8133e342ee5816f57eb3be32e56cf90b1b4400",
+  "logIndex": 0,
+  "blockHash": "0xc0ed362285a255a1c64fb3ffa4822af7644ef0483a8347fa988257ec932af3d7",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0xAc8133E342Ee5816f57Eb3be32E56cF90b1b4400"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:37:35 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 109,
+  "transactionHash": "0xc07736082915b0a04e9e51a3fe0c0b3af6bfc54bbf521bc41b378c80487c4479",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000a6fb32eb8607f68d1217b517a5beeaef784ed11c",
+  "logIndex": 0,
+  "blockHash": "0x1ac1fc81aa1d3154e7656f293b83fd896a05505c0eca3ef9b73b2910ea697b4c",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0xa6fb32EB8607F68d1217b517a5BEeAEF784ED11c"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:47:56 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 110,
+  "transactionHash": "0x44608abd06e4ca2b04e6a821b5ebe8d0f1f0a28e139aef235d6c93259a69d7bb",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000001dcf31d812c9f1a7c06fd2c166e13c8644254bc1",
+  "logIndex": 0,
+  "blockHash": "0x23fdcaf841a1433930d36389021c46ceb1e9a15ed5d8de3f97f15aba5fcc0485",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x1DCF31D812c9F1A7c06fd2c166e13c8644254Bc1"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 22:50:35 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 111,
+  "transactionHash": "0xa874078fd1b3fe9a9145db8f4604bec449ab13f9d5cbf5ee5794c13a33173b43",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e70000000000000000000000001dcf31d812c9f1a7c06fd2c166e13c8644254bc1",
+  "logIndex": 0,
+  "blockHash": "0x9f735484c77edcf11454309d4dc20732c2835e84a8784a096941796e382efb6e",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x1DCF31D812c9F1A7c06fd2c166e13c8644254Bc1"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 23:00:48 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 112,
+  "transactionHash": "0x3b44b8832af0256b32ec1281cfbc6a635a1f966d8d2d9e2eb5ad9c09d036f2cc",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000ac8133e342ee5816f57eb3be32e56cf90b1b4400",
+  "logIndex": 0,
+  "blockHash": "0x0f8fc9ec9ac00cf8da36b3557f06fc75a7b9bdc8c6220a85fbe021511838b6f8",
+  "args": [
+    false,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0xAc8133E342Ee5816f57Eb3be32E56cF90b1b4400"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
+2024-10-11 23:24:23 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 113,
+  "transactionHash": "0x17dfb2e56aad8c87d47d6bab086e7caa298fdd02ef4981018fde38e6272e31a1",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0x62ab6a38805973d9ef45642eadd5aab886aa64160c35d7f35335f9d000cd92f1",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}

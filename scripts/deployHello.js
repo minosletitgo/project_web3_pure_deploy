@@ -52,7 +52,21 @@ async function main() {
   for (const event of contractReceipt1.events) {
     logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
   }
+
+  const tx2 = await hello.print2(); // 实际发送交易
+  const contractReceipt2 = await tx2.wait(); // 等待交易打包进区块
+  //强制打印交易Json数据  
+  for (const event of contractReceipt2.events) {
+    logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
+  }  
   
+  const tx3 = await hello.print3(); // 实际发送交易
+  const contractReceipt3 = await tx3.wait(); // 等待交易打包进区块
+  //强制打印交易Json数据  
+  for (const event of contractReceipt3.events) {
+    logger.info(JSON.stringify(event, null, 2)); // 格式化 JSON 输出
+  }    
+
   logger.info("End...");
 
   logger.info(`Hello deployed to (address): ${hello.address}`);
@@ -69,3 +83,5 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+  // 0xE4cA9a8f04ca23731B7863742F24032f561682F1
