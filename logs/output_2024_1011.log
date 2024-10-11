@@ -1339,3 +1339,22 @@
   "event": "VerifyVoteLog",
   "eventSignature": "VerifyVoteLog(bool,address,address)"
 }
+2024-10-11 23:49:59 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 114,
+  "transactionHash": "0xfbf24abf911d94dc3727f1b715a116558a1a92122715b07658488d45af604d07",
+  "address": "0xBCc9FbAd4210E0161BA0a03833C9104c4F30722B",
+  "topics": [
+    "0x164629908c0aca8f9ff0399564fb33be5f7658ea82bb0d5a4136bfef40c30423"
+  ],
+  "data": "0x0000000000000000000000000000000000000000000000000000000000000001000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7000000000000000000000000352307e6d885976d25b780f2af1f519084f6b2e7",
+  "logIndex": 0,
+  "blockHash": "0x78495edd8cf7e24ed2918c9fafb116f7fdb97c3b76a74cb9a99968b0ee6691ee",
+  "args": [
+    true,
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7",
+    "0x352307e6d885976D25B780f2af1F519084F6b2E7"
+  ],
+  "event": "VerifyVoteLog",
+  "eventSignature": "VerifyVoteLog(bool,address,address)"
+}
