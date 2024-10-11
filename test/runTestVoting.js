@@ -12,8 +12,12 @@ async function main() {
   const wallet = new hre.ethers.Wallet(privateKey);
 
   try {
+    // hash
+    // const hash = hre.ethers.utils.keccak256(hre.ethers.utils.toUtf8Bytes(message));
+
     // 签名消息
     const signature = await wallet.signMessage(message);
+    logger.info(`signature = ${signature}`);
 
     // 拆分签名数据
     const { r, s, v } = hre.ethers.utils.splitSignature(signature);
