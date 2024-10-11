@@ -7,10 +7,11 @@ async function main() {
   const candidateId = "12345"; // 候选人的ID
   const message = `I vote for candidate ${candidateId}`; // 投票的消息
 
-  // 计算哈希值
+  // 计算 hash
   const hash = ethers.utils.keccak256(ethers.utils.toUtf8Bytes(message));
   logger.info(`hash = ${hash}`);
 
+  // 计算 hashToEth
   const prefix = "\x19Ethereum Signed Message:\n32"; // 前缀
   const hashAddPrefix = ethers.utils.concat([ethers.utils.toUtf8Bytes(prefix), hash]); // 拼接前缀和哈希
   const hashToEth = ethers.utils.keccak256(hashAddPrefix); // 计算哈希
@@ -29,7 +30,7 @@ main()
 
     hash = 0x0b25b42715a38040a57e0ae9369af5f03b9fdafe02b291008d58c7911a2077e2
     hashToEth = 0xc2930031f49a003b2eea9b6dd8dc36fc9884963e7da7c7f977e798bf1236063a
-    
+
     进入到浏览器：
     1. 确保已经安装了MetaMask钱包
     2. 确保测试链(如，Ganache)，已经加入到MetaMask中
