@@ -25,7 +25,14 @@ module.exports = {
     localGanache: {
       url: "HTTP://127.0.0.1:7545",
       chainId: 1337,
-      accounts: [process.env.PRIVATE_KEY_localGanache],
+      accounts: [
+        process.env.PRIVATE_KEY_localGanache,
+        process.env.PRIVATE_KEY_localGanache2,
+        process.env.PRIVATE_KEY_localGanache3,
+        process.env.PRIVATE_KEY_localGanache4,
+        process.env.PRIVATE_KEY_localGanache5,
+        process.env.PRIVATE_KEY_localGanache6,
+      ],
       loggingEnabled: true, // 启用日志记录
     },
     sepolia: {

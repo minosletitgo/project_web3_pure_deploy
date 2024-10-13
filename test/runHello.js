@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 const logger = require("../srcs/logger");
-const contractABI = require("../abi/Hello.json"); // ABI 文件路径
-require('dotenv').config(); // 加载 .env 文件
+const contractABI = require("../abi/Hello.json");
+require('dotenv').config();
 
 async function main() {
     const [signer] = await ethers.getSigners();

@@ -1,0 +1,69 @@
+2024-10-14 00:05:09 [info]: Total accounts available: 6
+2024-10-14 00:05:09 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-14 00:05:09 [info]: Contract deployed to: 0xCC1f37E50456D4BBb8a67eD18c2c67A67FabE782
+2024-10-14 00:09:11 [info]: signers.length = 6
+2024-10-14 00:11:24 [info]: signers.length = 6
+2024-10-14 00:11:24 [info]: 合约的实例，成功拿到！
+2024-10-14 00:11:36 [info]: signers.length = 6
+2024-10-14 00:11:36 [info]: 合约的实例，成功拿到！
+2024-10-14 00:11:36 [info]: balance = 5000000000000000000
+2024-10-14 00:11:54 [info]: signers.length = 6
+2024-10-14 00:11:54 [info]: 合约的实例，成功拿到！
+2024-10-14 00:11:54 [info]: balance = 5000000000000000000
+2024-10-14 00:12:30 [info]: signers.length = 6
+2024-10-14 00:12:30 [info]: 合约的实例，成功拿到！
+2024-10-14 00:12:52 [info]: Total accounts available: 6
+2024-10-14 00:12:52 [info]: Deploying contracts with the account: 0x352307e6d885976D25B780f2af1F519084F6b2E7
+2024-10-14 00:12:52 [info]: Contract deployed to: 0xaabCB41dceA857AA6eBf83FCF366B8cD0671E5Ef
+2024-10-14 00:13:00 [info]: signers.length = 6
+2024-10-14 00:13:00 [info]: 合约的实例，成功拿到！
+2024-10-14 00:13:00 [info]: balance = 1000000000000000000
+2024-10-14 00:14:25 [info]: signers.length = 6
+2024-10-14 00:14:25 [info]: 合约的实例，成功拿到！
+2024-10-14 00:14:33 [info]: signers.length = 6
+2024-10-14 00:14:33 [info]: 合约的实例，成功拿到！
+2024-10-14 00:14:33 [info]: balance = 6000000000000000000
+2024-10-14 00:15:04 [info]: signers.length = 6
+2024-10-14 00:15:25 [info]: signers.length = 6
+2024-10-14 00:15:45 [info]: signers.length = 6
+2024-10-14 00:16:08 [info]: signers.length = 6
+2024-10-14 00:16:08 [info]: 合约的实例，成功拿到！
+2024-10-14 00:16:08 [info]: balance = 6000000000000000000
+2024-10-14 00:16:24 [info]: signers.length = 6
+2024-10-14 00:16:24 [info]: 合约的实例，成功拿到！
+2024-10-14 00:16:24 [info]: contract.execTransaction 准备
+2024-10-14 00:16:24 [info]: contract.execTransaction 完毕
+2024-10-14 00:16:24 [info]: {
+  "transactionIndex": 0,
+  "blockNumber": 209,
+  "transactionHash": "0xfac8f00d718ce4ad10bf15c6367d739276e37557112060992aff8aa8334b2753",
+  "address": "0xCC1f37E50456D4BBb8a67eD18c2c67A67FabE782",
+  "topics": [
+    "0x06eb3f7a2b58a517c40c1539f9de85335dd3f9e280a321c951b744d99582778b"
+  ],
+  "data": "0x0000000000000000000000002e90c9d96eb748bf30167874527459d77b39275f0000000000000000000000000000000000000000000000003782dace9d900000c5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a47000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000539c126b415617b57bf6925b9784ba85c3b660333b9c3c47c999e2fd7c76649f8c6",
+  "logIndex": 0,
+  "blockHash": "0x3d486d82037e4e649532c1e0e62dffa6d28da844c548b8353dce886f2eee71cd",
+  "args": [
+    "0x2E90c9d96Eb748BF30167874527459d77B39275F",
+    {
+      "type": "BigNumber",
+      "hex": "0x3782dace9d900000"
+    },
+    "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470",
+    {
+      "type": "BigNumber",
+      "hex": "0x00"
+    },
+    {
+      "type": "BigNumber",
+      "hex": "0x0539"
+    },
+    "0xc126b415617b57bf6925b9784ba85c3b660333b9c3c47c999e2fd7c76649f8c6"
+  ],
+  "event": "EncodeTransactionData",
+  "eventSignature": "EncodeTransactionData(address,uint256,bytes32,uint256,uint256,bytes32)"
+}
+2024-10-14 00:17:10 [info]: signers.length = 6
+2024-10-14 00:17:10 [info]: 合约的实例，成功拿到！
+2024-10-14 00:17:10 [info]: balance = 2000000000000000000
