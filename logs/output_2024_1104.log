@@ -1,0 +1,144 @@
+2024-11-04 15:08:55 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:08:56 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:10:29 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:11:40 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:15:14 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:15:14 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:15:14 [info]: Bank Contract getBalance : [object Promise]
+2024-11-04 15:16:45 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:16:45 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:16:45 [info]: Bank Contract getBalance : [object Promise]
+2024-11-04 15:17:28 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:17:28 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:17:28 [info]: Bank Contract getBalance : [object Promise]
+2024-11-04 15:17:57 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:17:57 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:17:57 [info]: Bank Contract getBalance : [object Promise]
+2024-11-04 15:18:06 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:18:17 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:18:17 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:18:17 [info]: Bank Contract getBalance : [object Promise]
+2024-11-04 15:19:16 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:19:30 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:19:30 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:19:51 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:19:51 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:20:57 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:20:57 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:20:57 [info]: Bank Contract getBalance : 1000000000000000000
+2024-11-04 15:23:49 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:23:49 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:23:49 [info]: Bank Contract getBalance : 5000000000000000000
+2024-11-04 15:24:53 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:24:53 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:24:54 [info]: Bank Contract getBalance : 0
+2024-11-04 15:24:54 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 15:25:41 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:25:41 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:25:41 [info]: Bank Contract getBalance : 0
+2024-11-04 15:25:41 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 15:25:41 [info]: Attack Contract getBalance : 0
+2024-11-04 15:31:27 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:31:27 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:31:27 [info]: Bank Contract getBalance : 0
+2024-11-04 15:31:27 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 15:31:27 [info]: Attack Contract getBalance : 0
+2024-11-04 15:32:42 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:32:42 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:32:42 [info]: Bank Contract getBalance : 100000000000000000
+2024-11-04 15:32:42 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 15:32:42 [info]: Attack Contract getBalance : 0
+2024-11-04 15:35:37 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 15:35:37 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:35:37 [info]: Bank Contract getBalance : 10000000000000000000
+2024-11-04 15:35:37 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 15:35:37 [info]: Attack Contract getBalance : 0
+2024-11-04 15:45:09 [info]: bank 合约的实例，成功拿到
+2024-11-04 15:47:17 [info]: bank 合约的实例，成功拿到
+2024-11-04 15:47:26 [info]: bank 合约的实例，成功拿到
+2024-11-04 15:49:42 [info]: bank 合约的实例，成功拿到
+2024-11-04 15:51:34 [info]: bank 合约的实例，成功拿到
+2024-11-04 15:52:30 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:53:47 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:54:05 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:54:14 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 15:55:55 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:01:01 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:01:01 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:01:01 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:01:01 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 16:01:01 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:02:00 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:02:36 [info]: bank 合约的实例，成功拿到，地址：0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:05:45 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:05:45 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:05:45 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:05:45 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 16:05:45 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:06:55 [info]: Deploying contracts with the account: 0x7428bCe371acEa77D4A0Cf6C31b940b797Ae1cCf
+2024-11-04 16:07:28 [info]: Deploying contracts with the account: 0x7428bCe371acEa77D4A0Cf6C31b940b797Ae1cCf
+2024-11-04 16:08:22 [info]: Deploying contracts with the account: 0x7428bCe371acEa77D4A0Cf6C31b940b797Ae1cCf
+2024-11-04 16:10:10 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:10:10 [info]: Bank Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+2024-11-04 16:10:10 [info]: Bank Contract getBalanceOfSelf : 0
+2024-11-04 16:10:10 [info]: Attack Contract deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+2024-11-04 16:10:10 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:10:23 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:10:23 [info]: Bank Contract deployed to: 0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0
+2024-11-04 16:10:23 [info]: Bank Contract getBalanceOfSelf : 0
+2024-11-04 16:10:23 [info]: Attack Contract deployed to: 0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9
+2024-11-04 16:10:23 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:10:41 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:10:41 [info]: Bank Contract deployed to: 0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9
+2024-11-04 16:10:41 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:10:41 [info]: Attack Contract deployed to: 0x5FC8d32690cc91D4c39d9d3abcBD16989F875707
+2024-11-04 16:10:41 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:11:33 [info]: bank 合约的实例，成功拿到，地址：0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9
+2024-11-04 16:11:33 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:12:32 [info]: bank 合约的实例，成功拿到，地址：0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9
+2024-11-04 16:12:32 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:12:32 [info]: attack 合约的实例，成功拿到，地址：0x5FC8d32690cc91D4c39d9d3abcBD16989F875707
+2024-11-04 16:12:32 [info]: attack 余额 = 0
+2024-11-04 16:14:23 [info]: bank 合约的实例，成功拿到，地址：0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9
+2024-11-04 16:14:23 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:14:23 [info]: attack 合约的实例，成功拿到，地址：0x5FC8d32690cc91D4c39d9d3abcBD16989F875707
+2024-11-04 16:14:23 [info]: attack 余额 = 0
+2024-11-04 16:15:39 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:15:39 [info]: Bank Contract deployed to: 0x0165878A594ca255338adfa4d48449f69242Eb8F
+2024-11-04 16:15:39 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:15:39 [info]: Attack Contract deployed to: 0xa513E6E4b8f2a923D98304ec87F64353C4D5C853
+2024-11-04 16:15:39 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:16:14 [info]: bank 合约的实例，成功拿到，地址：0x0165878A594ca255338adfa4d48449f69242Eb8F
+2024-11-04 16:16:14 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:16:14 [info]: attack 合约的实例，成功拿到，地址：0xa513E6E4b8f2a923D98304ec87F64353C4D5C853
+2024-11-04 16:16:14 [info]: attack 余额 = 0
+2024-11-04 16:18:18 [info]: bank 合约的实例，成功拿到，地址：0x0165878A594ca255338adfa4d48449f69242Eb8F
+2024-11-04 16:18:18 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:18:18 [info]: attack 合约的实例，成功拿到，地址：0xa513E6E4b8f2a923D98304ec87F64353C4D5C853
+2024-11-04 16:18:18 [info]: attack 余额 = 0
+2024-11-04 16:20:11 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:20:11 [info]: Bank Contract deployed to: 0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6
+2024-11-04 16:20:11 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:20:11 [info]: Attack Contract deployed to: 0x8A791620dd6260079BF849Dc5567aDC3F2FdC318
+2024-11-04 16:20:11 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:20:39 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:20:40 [info]: Bank Contract deployed to: 0x610178dA211FEF7D417bC0e6FeD39F05609AD788
+2024-11-04 16:20:40 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:20:40 [info]: Attack Contract deployed to: 0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e
+2024-11-04 16:20:40 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:21:17 [info]: bank 合约的实例，成功拿到，地址：0x610178dA211FEF7D417bC0e6FeD39F05609AD788
+2024-11-04 16:21:17 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:21:17 [info]: attack 合约的实例，成功拿到，地址：0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e
+2024-11-04 16:21:17 [info]: attack 余额 = 0
+2024-11-04 16:21:17 [info]: contractReceipt.status = 1
+2024-11-04 16:21:17 [info]: bank 余额 = 0
+2024-11-04 16:21:17 [info]: attack 余额 = 11000000000000000000
+2024-11-04 16:22:27 [info]: Deploying contracts with the account: 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+2024-11-04 16:22:27 [info]: Bank Contract deployed to: 0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82
+2024-11-04 16:22:27 [info]: Bank Contract getBalanceOfSelf : 10000000000000000000
+2024-11-04 16:22:27 [info]: Attack Contract deployed to: 0x9A676e781A523b5d0C0e43731313A708CB607508
+2024-11-04 16:22:27 [info]: Attack Contract getBalanceOfSelf : 0
+2024-11-04 16:23:02 [info]: bank 合约的实例，成功拿到，地址：0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82
+2024-11-04 16:23:02 [info]: bank 余额 = 10000000000000000000
+2024-11-04 16:23:02 [info]: attack 合约的实例，成功拿到，地址：0x9A676e781A523b5d0C0e43731313A708CB607508
+2024-11-04 16:23:02 [info]: attack 余额 = 0
