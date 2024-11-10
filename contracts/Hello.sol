@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.24;
 
-//import "hardhat/console.sol";
+import "hardhat/console.sol";
 
 contract Hello {
     event DoLog(string str);
@@ -11,7 +11,7 @@ contract Hello {
     event TestPrintLog(bool success);
 
     function print0() public returns (string memory) {
-        emit DoLog("Hello, World!"); 
+        emit DoLog("Hello, World!");
         return "Hello, World!";
     }
 
@@ -31,7 +31,7 @@ contract Hello {
     function print3() public returns (bool) {
         emit DoLog3(true);
         return true;
-    }    
+    }
 
     function testPrint() public returns (bool) {
         bool success = true;
@@ -40,5 +40,5 @@ contract Hello {
         // emit VerifyVoteLog(success, voter, recoveredAddress);
         emit TestPrintLog(success);
         return success;
-    }    
+    }
 }
