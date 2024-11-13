@@ -64,6 +64,9 @@ npm install winston@3.14.2
 npm install --save-dev hardhat-abi-exporter@2.10.1
 ```
 
+* 安装"chainlink"
+npm install @chainlink/contracts
+
 ---------------------------------------------------------------------------------
 
 

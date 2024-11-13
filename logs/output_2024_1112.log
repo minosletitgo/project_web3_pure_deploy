@@ -1,0 +1,26 @@
+2024-11-12 20:33:39 [info]: Deploying contracts with the account: 0xAc8133E342Ee5816f57Eb3be32E56cF90b1b4400
+2024-11-12 20:34:09 [info]: testAutomation Contract deployed to: 0x4DBD97E36d6D1d8adf99Aa1919FA646b9a5B15cc
+2024-11-12 21:34:34 [info]: 合约的实例，成功拿到，地址：0x4DBD97E36d6D1d8adf99Aa1919FA646b9a5B15cc 
+2024-11-12 21:35:06 [info]: 合约的实例，成功拿到，地址：0x4DBD97E36d6D1d8adf99Aa1919FA646b9a5B15cc
+2024-11-12 21:35:55 [info]: {
+  "transactionIndex": 84,
+  "blockNumber": 7062055,
+  "transactionHash": "0x64ed389ae4fa0aa0ca6e5e43b3e5bb147dbbeea80d7ec9c9485b292b1253913e",
+  "address": "0x4DBD97E36d6D1d8adf99Aa1919FA646b9a5B15cc",
+  "topics": [
+    "0x1440c4dd67b4344ea1905ec0318995133b550f168b4ee959a0da6b503d7d2414"
+  ],
+  "data": "0x00000000000000000000000000000000000000000000000000000000673359b4",
+  "logIndex": 115,
+  "blockHash": "0x08fba5e3f71d696fd78c578c4c8a91b35373cd3b88a15ff118f9d49aa56e19f6",
+  "args": [
+    {
+      "type": "BigNumber",
+      "hex": "0x673359b4"
+    }
+  ],
+  "event": "TestEvent",
+  "eventSignature": "TestEvent(uint256)"
+}
+2024-11-12 23:02:01 [info]: Deploying contracts with the account: 0xAc8133E342Ee5816f57Eb3be32E56cF90b1b4400
+2024-11-12 23:02:40 [info]: testAutomation Contract deployed to: 0xa685f5aC79f4C6485F50c8bF5252898e075Cff3b
