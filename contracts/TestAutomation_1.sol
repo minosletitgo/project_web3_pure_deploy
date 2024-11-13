@@ -3,11 +3,11 @@ pragma solidity ^0.8.0;
 
 import "@chainlink/contracts/src/v0.8/automation/AutomationCompatible.sol";
 
-contract TestAutomation is AutomationCompatibleInterface {
+contract TestAutomation_1 is AutomationCompatibleInterface {
     uint public lastTimeStamp;
     uint public interval = 30 seconds;
 
-    event TestEvent(uint256 timestamp);
+    event TestEvent_1(uint256 timestamp);
 
     // 构造函数
     constructor() {
@@ -25,6 +25,6 @@ contract TestAutomation is AutomationCompatibleInterface {
         // 如果"触发的checkUpkeep函数，返回true"，则会进入到此函数，开始执行真实的逻辑
         lastTimeStamp = block.timestamp;
         // 这里可以执行你需要自动化的操作，比如转账、状态更新等
-        emit TestEvent(block.timestamp);
+        emit TestEvent_1(block.timestamp);
     }
 }

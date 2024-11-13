@@ -19,7 +19,7 @@ main().catch((error) => {
 });
 
 /*
-    npx hardhat run .\scripts\deployTestAutomation.js --network sepolia
+    npx hardhat run .\scripts\deployTestAutomation_1.js --network sepolia
 
     0xa685f5aC79f4C6485F50c8bF5252898e075Cff3b
 */
