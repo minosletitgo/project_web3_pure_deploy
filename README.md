@@ -39,6 +39,11 @@ npm install @nomiclabs/hardhat-ethers@2.2.1
 npm install @nomiclabs/hardhat-etherscan@3.1.7
 ```
 
+* 安装"undici插件"(处理HTTP请求，辅助验证合约的网络超时问题)
+```
+npm install --save-dev undici@5.2.0 
+```
+
 * 安装"dotenv库"(加载环境变量从.env 文件中到 process.env，管理应用程序的配置和敏感信息)
 ```
 npm install dotenv@16.4.5
