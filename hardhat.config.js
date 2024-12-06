@@ -4,12 +4,12 @@ require("hardhat-gas-reporter")
 require('hardhat-abi-exporter');
 require("dotenv").config();
 
-// 引入所需的模块
-const { ProxyAgent, setGlobalDispatcher } = require('undici');
+// // 引入所需的模块
+// const { ProxyAgent, setGlobalDispatcher } = require('undici');
 
-// 创建并设置全局代理
-const proxyAgent = new ProxyAgent('http://127.0.0.1:7890');
-setGlobalDispatcher(proxyAgent);
+// // 创建并设置全局代理
+// const proxyAgent = new ProxyAgent('http://127.0.0.1:7890');
+// setGlobalDispatcher(proxyAgent);
 
 module.exports = {
   solidity: {
