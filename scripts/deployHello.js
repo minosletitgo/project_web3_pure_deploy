@@ -18,7 +18,7 @@ async function main() {
     contractPath: "./contracts/Hello.sol",
   });
   //const Hello = await ethers.getContractFactory("Hello");
-  const hello = await Hello.deploy();
+  const hello = await Hello.connect(deployer).deploy();
   await hello.deployed(); // 等待合约部署完成
 
   // 监听事件，并且保存回调函数以便稍后移除监听器
@@ -84,4 +84,6 @@ main()
     process.exit(1);
   });
 
-  // 0xE4cA9a8f04ca23731B7863742F24032f561682F1
+/*
+    npx hardhat run .\scripts\deployHello.js --network localHardhat
+*/

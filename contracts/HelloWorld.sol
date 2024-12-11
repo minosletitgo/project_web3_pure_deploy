@@ -1,8 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract HelloWorld {
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract HelloWorld is Ownable {
     uint256 public _value;
+
+    constructor() Ownable(msg.sender) {
+
+    }
 
     function testToMin() external {
         _value = type(uint256).min;

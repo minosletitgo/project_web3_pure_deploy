@@ -26,7 +26,12 @@ module.exports = {
     localHardhat: {
       url: "http://127.0.0.1:8545",
       chainId: 31337,
-      accounts: [process.env.PRIVATE_KEY_localHardhat],
+      accounts: [
+        process.env.PRIVATE_KEY_localHardhat_0,
+        process.env.PRIVATE_KEY_localHardhat_1,
+        process.env.PRIVATE_KEY_localHardhat_2,
+        process.env.PRIVATE_KEY_localHardhat_3
+      ],
       loggingEnabled: true, // 启用日志记录
     },
     localGanache: {
